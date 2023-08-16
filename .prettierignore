@@ -1,0 +1,8 @@
+# dependencies
+/node_modules
+
+# production
+/dist
+
+.pnp.cjs
+.pnp.loader.mjs
